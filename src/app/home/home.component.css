@@ -54,6 +54,7 @@
     font-weight: 700;
     background: var(--color-blue-1);
     color: #fff;
+    text-decoration: none;
 }
 
 .banner .box .buttons a:hover {
